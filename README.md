@@ -1,4 +1,4 @@
-# Directory Tree Printer Script
+# Print Directory Tree 
 
 This Python command-line program prints the underlying directory tree structure to the standard output (console/ terminal).
 
