@@ -28,9 +28,6 @@ Parameters:
 """
 def print_directory_tree(directory, indent=''):
 
-    if directory.endswith("/"):
-        directory = directory[:-1]  # remove "/" character.
-
     print(indent + os.path.basename(directory) + "/")
 
     indent += "    "
