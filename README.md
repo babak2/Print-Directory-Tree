@@ -44,11 +44,11 @@ will produce the following output:
 ```
 path/
     subdir1/
-        file1
-        file2
+        buzz
+        fizz
     subdir2/
-        file3
-        subdir3/
-            file4
+        foo
+        subsubdir1/
+
 ```
 
