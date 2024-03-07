@@ -36,11 +36,12 @@ Replace <directory_path> with the path to the directory whose tree structure you
 Running the program with the command:
 
 
-`python3 print_dir_tree.py path/`
+`python3 print_dir_tree.py path`
 
 
 will produce the following output:
 
+```
 path/
     subdir1/
         file1
@@ -49,4 +50,5 @@ path/
         file3
         subdir3/
             file4
+```
 
